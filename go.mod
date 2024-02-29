@@ -1,4 +1,4 @@
-module github.com/lindell/multi-gitter
+module github.com/alileza/multi-gitter
 
 go 1.21
 
